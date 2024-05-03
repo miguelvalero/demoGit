@@ -1,6 +1,12 @@
 primera version 
 modificaciones correctas
+
 estoy desarrollando
 
 hago cosas en la rama master
 hago mas cosas despues del tag
+
+
+empiezo a desarrollar
+esto ya se puede mezclar
+
